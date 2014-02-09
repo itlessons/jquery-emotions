@@ -30,8 +30,10 @@ Create dom elements which text should be transformed:
 <div class="txt">o:) o.O 3:) :D <3 :* :) 8| :/ ;) :'( :( 8) >:( :p</div>
 ```
 
-## Author
+## Links
+[Смайлы в чате как в Facebook или ICQ c помощью JQuery](http://www.itlessons.info/javascript/facebook-or-icq-jquery-emotions-plugin/)
 
+## Author
 [itlessons](http://www.itlessons.info) ([@itlessonsinfo](http://twitter.com/itlessonsinfo))
 
 ## Other
